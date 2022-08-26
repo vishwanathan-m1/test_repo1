@@ -1,0 +1,11 @@
+	Line 876: WARNING  -  A relative path to 'Iris/iris_tutorials/Content/Introduction.md' is included in the 'nav' configuration,
+	Line 878: WARNING  -  A relative path to 'Iris/iris_tutorials/Content/Module/sfpipeline_manual.md' is included in the 'nav'
+	Line 902: WARNING  -  A relative path to 'Iris/iris_user_guide/Content/ExportImportThemes.md' is included in the 'nav'
+	Line 904: WARNING  -  A relative path to 'Iris/iris_user_guide/Content/ExportImportFonts.md' is included in the 'nav'
+	Line 1960: WARNING  -  A relative path to '.mdString Property"' is included in the 'nav' configuration, which is not found in the
+	Line 1962: WARNING  -  A relative path to 'Iris/iris_widget_prog_guide/Content/Browser_Properties.md.mdString' is included in the
+	Line 7881: WARNING  -  A relative path to 'Iris/iris_wearables_dev_guide/content/deprecated.md' is included in the 'nav'
+	Line 9640: WARNING  -  A relative path to 'Foundry/voltmx_foundry_user_guide/Content/LogicServicesinApps.md' is included in the
+	Line 9947: WARNING  -  A relative path to 'Foundry/voltmx_foundry_user_guide/Content/VoltMXStudio/Invoking_Logic_Service_Iris.md'
+	Line 10026: WARNING  -  A relative path to 'Foundry/voltmx_foundry_user_guide/Content/JS/Invoking_Logic_Service_JS.md' is included
+	Line 10450: WARNING  -  A relative path to 'Foundry/voltmx_foundry_intro_eng/Content/Next Steps.md' is included in the 'nav'
