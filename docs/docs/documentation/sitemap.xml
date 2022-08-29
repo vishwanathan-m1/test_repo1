@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://127.0.0.1:5500/Whats_New_V9.html</loc>
+         <lastmod>2022-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://127.0.0.1:5500/Whats_New_in%20_V9_Service_Pack_1.html</loc>
          <lastmod>2022-08-29</lastmod>
          <changefreq>daily</changefreq>
