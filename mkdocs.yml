@@ -11,7 +11,7 @@ theme:
   logo: assets/favicon.png
   features:
 #    - navigation.indexes
-    - navigation.instant
+#    - navigation.instant
 #    - search.highlight
 #    - search.share
 #    - search.suggest
@@ -25,6 +25,8 @@ theme:
 
 markdown_extensions:
   - md_in_html
+  - toc:
+      toc_depth : "1-1"
 #  - admonition
 #  - pymdownx.details
 #  - pymdownx.superfences
