@@ -4,3 +4,4 @@ _site/
 .jekyll-metadata
 *-cache/
 /.vscode/settings.json
+/source/_site/

@@ -11,7 +11,7 @@ theme:
   logo: assets/favicon.png
   features:
 #    - navigation.indexes
-#    - navigation.instant
+    - navigation.instant
 #    - search.highlight
 #    - search.share
 #    - search.suggest
@@ -26,11 +26,11 @@ theme:
 markdown_extensions:
   - md_in_html
   - toc:
-      toc_depth : "1-1"
-#  - admonition
-#  - pymdownx.details
-#  - pymdownx.superfences
-#  - attr_list
+      title: On this page
+# - admonition
+# - pymdownx.details
+# - pymdownx.superfences
+# - attr_list
 
 plugins:
   - section-index
@@ -50,35 +50,19 @@ extra:
 # Repository
 repo_url: https://github.com/HCL-TECH-SOFTWARE/volt-mx-docs
 repo_name: HCL-TECH-SOFTWARE/volt-mx-docs
+edit_uri: ""
 
 nav:
       - Introducing Volt MX: index.md
 # volt_mx_release_notes
-      - What's New:
+      - What&apos;s New:
         - Whats_New_Main_Page.md
-        - What's new in V9 Service Pack 2: Whats_New_in_V9_Service_Pack_2.md
-        - Volt MX What's new in V9 Service Pack 1: Whats_New_in _V9_Service_Pack_1.md
-        - What's new in V9: Whats_New_V9.md
+        - What&apos;s new in V9 Service Pack 2: Whats_New_in_V9_Service_Pack_2.md
+        - Volt MX What&apos;s new in V9 Service Pack 1: Whats_New_in _V9_Service_Pack_1.md
+        - What&apos;s new in V9: Whats_New_V9.md
       - Release Notes: VMX_release_notes.md
 # app_platform_overview:
       - App Platform: Iris/app_platform/Content/AppPlatform_Overview.md
-# general tutorials
-      - General Tutorials: 
-        - tutorials/GeneralTutorials.md
-        - Action Editor: tutorials/ActionEditor.md
-        - API Management: tutorials/apiManagement.md
-        - App Factory: tutorials/appFactory.md
-        - Architecture: tutorials/architecture.md
-        - Build And Productivity: tutorials/buildAndProductivity.md
-        - Components and Marketplace: tutorials/componentAndMarketplace.md
-        - Connecting to Backend: tutorials/ConnectingToBackend.md
-        - Designing For Web: tutorials/DesigningForWeb.md
-        - Designing the Layout: tutorials/designingTheLayout.md
-        - Internationalization and Localization: tutorials/internalizationAndLocalization.md
-        - Notification and Analytics: tutorials/notificationAndAnalytics.md
-        - Offline Services: tutorials/offlineServices.md
-        - Programming and Extensibility: tutorials/programmingAndExtensitbility.md
-        - Volt MX Foundry Overview: tutorials/voltmxFoundryOverview.md
 # iris_documentation:
       - Iris: 
         - Iris/voltmxIrisFundamentals.md
@@ -5186,7 +5170,7 @@ nav:
             - Execute App Lifecycle Events: Iris/iris_app_viewer/Content/ExecuteChildAppEvents.md
             - Notes in the Volt MX App: Iris/iris_app_viewer/Content/Notes.md
             - View logs on the Volt MX App: Iris/iris_app_viewer/Content/Viewlogs.md
-            - Clear the Publish Code for a Project's Preview: Iris/iris_app_viewer/Content/ClearThePublishCodeForAppPreview.md
+            - Clear the Publish Code for a Project&apos;s Preview: Iris/iris_app_viewer/Content/ClearThePublishCodeForAppPreview.md
           - Reports and Analytics: Iris/iris_app_viewer/Content/ReportsAndMetrics.md
 # voltmx_ref_arch_api:
         - Volt MX Reference Architecture Guide: 
@@ -6730,7 +6714,7 @@ nav:
           - Offline Objects: 
             - Foundry/offline_objects.md
 # offline_objectsapi_reference_guide:
-            - Offline Objects API Developer's Guide: 
+            - Offline Objects API Developer&apos;s Guide: 
               - Foundry/offline_objectsapi_reference_guide/Content/Offline_Objects_API_Reference.md
               - Introduction: Foundry/offline_objectsapi_reference_guide/Content/Introduction.md
               - Application-level APIs:
