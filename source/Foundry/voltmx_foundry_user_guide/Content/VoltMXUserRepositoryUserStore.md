@@ -5,7 +5,7 @@
 Volt MX  User Repository (User Store) Identity Service (Support is deprecated from V8 SP4 AprilFP onwards)
 ---------------------------------------------------------------------------------------------------------
 
-Volt MX  Foundry allows you to use the built-in **VoltMX User Repository** (User Store) identity service to authenticate your apps. It provides a compact but robust authentication solution for all users that are part of the service. Typically, you can create log-in credentials for app users, so that the service restricts the number of users accessing the application. `Admins` and `Members` are the default groups available in the Volt MX User Repository.A user must be part of a group. By default, all users are associated to the **Members** group.
+Volt MX  Foundry allows you to use the built-in **VoltMX User Repository** (User Store) identity service to authenticate your apps. It provides a compact but robust authentication solution for all users that are part of the service. Typically, you can create log-in credentials for app users, so that the service restricts the number of users accessing the application. `Admins` and `Members` are the default groups available in the Volt MX User Repository.A user must be part of a group. By default, all users are associated to the **Members** group
 
 > **_Note:_** Support for Volt MX User Repository Identity Service is deprecated from V8 SP4 AprilFP onwards.
 
