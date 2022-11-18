@@ -35,6 +35,8 @@ markdown_extensions:
 plugins:
   - section-index
   - search
+  - mkdocs-versioning:
+      version: 1.0
 
 # Copyright
 copyright: Copyright &copy; 2022, HCL Technologies Limited
