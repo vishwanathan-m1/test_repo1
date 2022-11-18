@@ -35,18 +35,12 @@ markdown_extensions:
 plugins:
   - section-index
   - search
-  - mike
 
 # Copyright
 copyright: Copyright &copy; 2022, HCL Technologies Limited
 
 extra_css:
   - stylesheets/vmx_style.css
-
-# Versioning
-extra:
-  version:
-    provider: mike
 
 extra:
   social:
@@ -57,12 +51,6 @@ extra:
 repo_url: https://github.com/HCL-TECH-SOFTWARE/volt-mx-docs
 repo_name: HCL-TECH-SOFTWARE/volt-mx-docs
 edit_uri: ""
-
-# Versioning
-extra:
-  version:
-    provider: mike
-
 
 nav:
       - Introducing Volt MX: index.md
