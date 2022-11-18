@@ -9,7 +9,7 @@ To configure a Dev Portal, you will need to ensure that you have Volt MX account
 
 ## Creating a New Developer Portal
 
-You as an Admin or owner can create, update, or modify Developer Portal for your partners to access the service APIs of your app. A member can only view Developer Portal.
+You as an Admin or owner can create, update, or modify Developer Portal for your partners to access the service APIs of your app. A member can only view Developer Portal
 
 Each Dev Portal has a default logo, and **Header** menu with pages corresponding to the portal home page, APIs, and more. The **HOME**, **HELP**, and **FAQs** pages can be modified to suit your needs. The basic information is covered in the following procedure, while more details about fully modifying your portal can be found in the section [Customizing a Developer Portal](#customizing-a-developer-portal) later in this topic.
 
