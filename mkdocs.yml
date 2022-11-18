@@ -35,12 +35,18 @@ markdown_extensions:
 plugins:
   - section-index
   - search
+  - mike
 
 # Copyright
 copyright: Copyright &copy; 2022, HCL Technologies Limited
 
 extra_css:
   - stylesheets/vmx_style.css
+
+# Versioning
+extra:
+  version:
+    provider: mike
 
 extra:
   social:
