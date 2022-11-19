@@ -56,9 +56,10 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/HCL-TECH-SOFTWARE
+extra:
   version:
-    - provider: mike
-    - default: latest
+    provider: mike
+
 
 # Repository
 repo_url: https://github.com/HCL-TECH-SOFTWARE/volt-mx-docs
