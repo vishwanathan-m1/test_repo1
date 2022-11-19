@@ -36,8 +36,8 @@ plugins:
   - section-index
   - search
   - mike
-  - mkdocs-versioning:
-      version: "9.1"
+  # - mkdocs-versioning:
+  #     version: "9.1"
 
 # Copyright
 copyright: Copyright &copy; 2022, HCL Technologies Limited
@@ -60,7 +60,7 @@ edit_uri: ""
 
 nav:
       - Introducing Volt MX: index.md
-      - Version Selector: "../"
+      # - Version Selector: "../"
 # volt_mx_release_notes
       - What&apos;s New:
         - Whats_New_Main_Page.md

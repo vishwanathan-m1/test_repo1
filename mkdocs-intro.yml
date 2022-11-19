@@ -36,8 +36,8 @@ plugins:
   - section-index
   - search
   - mike
-  - mkdocs-versioning:
-      version: "9.1"
+  # - mkdocs-versioning:
+  #     version: "9.1"
 
 
 # Copyright
@@ -62,4 +62,4 @@ edit_uri: ""
 
 nav:
       - Introducing Volt MX: index.md
-      - Version Selector: "../"
+      # - Version Selector: "../"
