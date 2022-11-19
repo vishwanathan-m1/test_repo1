@@ -35,6 +35,7 @@ markdown_extensions:
 plugins:
   - section-index
   - search
+  - mike
   - mkdocs-versioning:
       version: "9.1"
 
@@ -48,6 +49,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/HCL-TECH-SOFTWARE
+  version:
+    - provider: mike
+    - default: latest
 
 # Repository
 repo_url: https://github.com/HCL-TECH-SOFTWARE/volt-mx-docs
